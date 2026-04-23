@@ -1,61 +1,37 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# Hi there! I'm Matheus 👋
 
-### 📊 Data Scientist en Formación | Apasionado por extraer valor de los datos
+### 📊 Aspiring Data Scientist | HS Student
 
-Actualmente soy estudiante de [Nombre de tu carrera, ej: Ingeniería, Matemáticas, Economía] en [Tu Universidad]. Me enfoco en resolver problemas complejos mediante el análisis estadístico y el aprendizaje automático. ¡Siempre estoy aprendiendo algo nuevo!
+I am a passionate Data Science learner at Venezuela with a strong foundation in analytical thinking and problem-solving. I am really interested in this field and how I can turn data into insights and building models
 
 ---
+- 🎓 Finalizing my highschool and aspire to get into an university.
+- 🧪 Working long term on a project aimed at predicting Potentially Hazardous Asteroids (PHAs).
+- 📚 Deepening my knowledge in Analytics.
 
-### 🚀 Lo que estoy haciendo ahora
-- 🎓 Estudiando los fundamentos de **Deep Learning** y **Estadística Bayesiana**.
-- 🛠️ Desarrollando un proyecto sobre [Nombre de tu proyecto principal, ej: Predicción de precios de vivienda].
-- ✍️ Escribiendo sobre mis hallazgos en [Tu Blog o LinkedIn].
+### 🛠️ Technical Skillset
 
-### 🛠️ Mi Skillset
-
-**Lenguajes y Análisis**
+**Core Languages & Databases**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-**Bibliotecas de Data Science**
-- **Manipulación:** Pandas, NumPy.
-- **Visualización:** Matplotlib, Seaborn, Plotly.
-- **Machine Learning:** Scikit-Learn, XGBoost.
-
-**Herramientas**
-- Git & GitHub, Jupyter Notebooks, Docker, Tableau/PowerBI.
-
----
-
-### 📂 Proyectos Destacados
-
-1.  **[Nombre del Proyecto 1](link-al-repo):** Breve descripción de una frase sobre qué problema resolviste y qué herramienta usaste (ej: Análisis de sentimientos usando NLP).
-2.  **[Nombre del Proyecto 2](link-al-repo):** Breve descripción (ej: Dashboard interactivo para visualización de datos climáticos).
+**Data Science Stack**
+- **Data Manipulation:** Pandas, NumPy.
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, XGBoost.
+- **Visualization:** Matplotlib, Seaborn, Plotly.
+- **Tools:** Git, Docker, Jupyter, Google Colab.
 
 ---
 
-### 📫 ¿Cómo contactarme?
-- 💼 [LinkedIn](tu-link-aqui)
-- 📧 [Tu Correo Electrónico]
-- 🐦 [Twitter/X](tu-link-aqui)
+### 🤝 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-matheus-a06312387/)
+- 📧 [Email](mailto:tushmatheus@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
-[Algo divertido sobre ti, ej: "Puedo explicar la regresión lineal mientras preparo un café perfecto" o "Aficionado a la astronomía"].
-
+When I'm not cleaning CSV files, I'm usually interested in Student Olympics such as Astronomy, Mathematics, Nanotechnology and Physics.
 <!--
-**matheuuuuu1/matheuuuuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Cuando puedas pon tus proyectos, para que no parezca tan vacío esto
 -->
